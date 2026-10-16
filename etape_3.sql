@@ -17,7 +17,8 @@ VALUES  ('2026-10-20 20:02:20'),
         ('2026-02-01 10:20:10');
 
 INSERT INTO platcommande(id_commande, id_plat, quantite)
-VALUES  (1, 1, 3),
+VALUES  (3, 1, 3),
         (1, 2, 1),
         (1, 3, 5),
         (2, 1, 1);
+        
